@@ -29,5 +29,19 @@ Examining the tree map provides a visual representation of the countries from wh
 
 The pie chart indicates that survey takers have different views on getting into the data industry. 42.7% find it neither easy nor difficult, while 24.76% consider it difficult, 21.27% find it easy, 6.98% difficult, and 4.29% very easy. The distribution indicates a diversity of perspectives on the difficulty of entering the data industry. Understanding these varied perceptions is crucial for individuals aspiring to break into the data world, as it provides insights into the challenges and opportunities they might encounter, helping them make informed decisions and better navigate their career paths.
 
+### 3. On a scale of 1 to 10, how do survey takers rate their work/life balance, and what is their level of satisfaction with their salary?
+![image](https://github.com/TendaiPhikiso/Data-Professional-Survey-PowerBI/assets/57633068/b6ae8366-b3d6-4747-9963-683124e9992b)
+
+
+### 4. 
+![image](https://github.com/TendaiPhikiso/Data-Professional-Survey-PowerBI/assets/57633068/9c186988-7be9-4f75-b0c4-7fbe798cc185)
+
+### 5. 
+![image](https://github.com/TendaiPhikiso/Data-Professional-Survey-PowerBI/assets/57633068/35245a99-94eb-4e7d-a77b-9735a529e4e9)
+
+
+### 6. 
+![image](https://github.com/TendaiPhikiso/Data-Professional-Survey-PowerBI/assets/57633068/e83fc5f3-c245-4b96-a95e-57af19fcba3c)
+
 ## Data Source
 The data used in this project is sourced from Alex the Analyst. 
