@@ -15,7 +15,7 @@ Before delving into data insights, the initial step involved addressing various 
 
 By thoroughly cleaning the data, the integrity of the dataset was maintained, creating a solid foundation for meaningful analysis.
 
-## Data Visualisation - Case Studay Questions
+## Data Visualisation - Case Study Questions
 
 
 ## Data Source
